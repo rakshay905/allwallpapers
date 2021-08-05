@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "name": "Home",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/bestwallpapers.json",
+            "description": "Best wallpapers"
+        },
+        {
+            "name": "Abstract Wallpapers",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/abstractwallpapers.json",
+            "description": "Abstract wallpapers"
+        },
+        {
+            "name": "Dark Wallpapers",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/darkwallpapers.json",
+            "description": "Dark wallpapers"
+        },
+        {
+            "name": "flower Wallpapers",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/flowerswallpapers.json",
+            "description": "Flower wallpapers"
+        }
+    ]
+}
