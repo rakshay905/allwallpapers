@@ -31,6 +31,11 @@
             "description": "Anime wallpapers"
         },
         {
+            "name": "Art",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/artwallpapers.json",
+            "description": "Art wallpapers"
+        },
+        {
             "name": "Dark Wallpapers",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/darkwallpapers.json",
             "description": "Dark wallpapers"
