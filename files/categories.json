@@ -6,6 +6,11 @@
             "description": "Best wallpapers"
         },
         {
+            "name": "3D",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/3d.json",
+            "description": "3D wallpapers"
+        },
+        {
             "name": "Abstract Wallpapers",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/abstractwallpapers.json",
             "description": "Abstract wallpapers"
