@@ -26,6 +26,11 @@
             "description": "Animals and Birds wallpapers"
         },
         {
+            "name": "Anime",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/animewallpapers.json",
+            "description": "Anime wallpapers"
+        },
+        {
             "name": "Dark Wallpapers",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/darkwallpapers.json",
             "description": "Dark wallpapers"
