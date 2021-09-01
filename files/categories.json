@@ -41,9 +41,19 @@
             "description": "Dark wallpapers"
         },
         {
-            "name": "flower Wallpapers",
+            "name": "Flower Wallpapers",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/flowerswallpapers.json",
             "description": "Flower wallpapers"
+        },
+        {
+            "name": "Movies Wallpapers",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/movieswallpapers.json",
+            "description": "Movies wallpapers"
+        },
+        {
+            "name": "Super Heroes Wallpapers",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/superheroeswallpapers.json",
+            "description": "Super Heroes wallpapers"
         }
     ]
 }
