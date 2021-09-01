@@ -11,7 +11,7 @@
             "description": "3D wallpapers"
         },
         {
-            "name": "Abstract Wallpapers",
+            "name": "Abstract",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/abstractwallpapers.json",
             "description": "Abstract wallpapers"
         },
@@ -36,22 +36,22 @@
             "description": "Art wallpapers"
         },
         {
-            "name": "Dark Wallpapers",
+            "name": "Dark",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/darkwallpapers.json",
             "description": "Dark wallpapers"
         },
         {
-            "name": "Flower Wallpapers",
+            "name": "Flowers",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/flowerswallpapers.json",
             "description": "Flower wallpapers"
         },
         {
-            "name": "Movies Wallpapers",
+            "name": "Movies",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/movieswallpapers.json",
             "description": "Movies wallpapers"
         },
         {
-            "name": "Super Heroes Wallpapers",
+            "name": "Super Heroes",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/superheroeswallpapers.json",
             "description": "Super Heroes wallpapers"
         }
