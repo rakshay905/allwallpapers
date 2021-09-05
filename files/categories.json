@@ -51,6 +51,16 @@
             "description": "Movies wallpapers"
         },
         {
+            "name": "Motorcycles",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/motorcyclewallpapers.json",
+            "description": "Motorcycles wallpapers"
+        },
+        {
+            "name": "Sports",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/sportswallpapers.json",
+            "description": "Sports wallpapers"
+        },
+        {
             "name": "Super Heroes",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/superheroeswallpapers.json",
             "description": "Super Heroes wallpapers"
