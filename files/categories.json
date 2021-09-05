@@ -56,6 +56,11 @@
             "description": "Motorcycles wallpapers"
         },
         {
+            "name": "Music",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/musicwallpapers.json",
+            "description": "Music wallpapers"
+        },
+        {
             "name": "Space",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/spacewallpapers.json",
             "description": "Space wallpapers"
@@ -64,6 +69,11 @@
             "name": "Sports",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/sportswallpapers.json",
             "description": "Sports wallpapers"
+        },
+        {
+            "name": "Summer",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/summerwallpapers.json",
+            "description": "Summer wallpapers"
         },
         {
             "name": "Super Heroes",
