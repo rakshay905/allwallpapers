@@ -56,6 +56,11 @@
             "description": "Motorcycles wallpapers"
         },
         {
+            "name": "Space",
+            "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/spacewallpapers.json",
+            "description": "Space wallpapers"
+        },
+        {
             "name": "Sports",
             "api": "https://raw.githubusercontent.com/rakshay905/allwallpapers/main/files/sportswallpapers.json",
             "description": "Sports wallpapers"
